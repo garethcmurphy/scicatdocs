@@ -1,27 +1,66 @@
-# Scicatdocs
+# Angular Repository for SciCat Documentation 📚✨  
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+This repository was an earlier implementation of the documentation site for **SciCat**, the science catalog used by the **European Spallation Source (ESS)**. It includes examples and references for the SciCat project but has been superseded by the latest documentation repository.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Features ✨  
 
-## Code scaffolding
+- **Angular-Based Documentation**: Built using the Angular framework for modern, interactive documentation.  
+- **SciCat Integration**: Example documentation highlighting features of the SciCat science catalog.  
+- **Archived Example**: Serves as a reference for earlier approaches to building SciCat documentation.  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## Prerequisites 🛠️  
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- **Node.js** and **npm** installed.  
+- Angular CLI installed globally:  
+  npm install -g @angular/cli  
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Installation  
 
-## Running end-to-end tests
+1. Clone the repository:  
+git clone https://github.com/your-username/scicat-angular-docs.git  
+cd scicat-angular-docs  
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+2. Install dependencies:  
+npm install  
 
-## Further help
+3. Run the development server:  
+npm start  
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+4. Open the documentation in your browser at:  
+http://localhost:4200  
+
+---
+
+## File Structure 📂  
+
+- `src/`: Angular source code for the documentation site.  
+- `assets/`: Static assets like images and stylesheets.  
+- `README.md`: Documentation for this repository.  
+
+---
+
+## Status ⚠️  
+
+This repository has been **superseded** by the [latest SciCat documentation repository](https://github.com/username/latest-scicat-docs). It remains as an archived reference for earlier implementations.
+
+---
+
+## Contributing 🤝  
+
+This repository is no longer actively maintained. Contributions should be directed to the latest SciCat documentation repository.
+
+---
+
+## License 📝  
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+**Explore earlier examples of SciCat documentation with this Angular repo!** 📚✨  
